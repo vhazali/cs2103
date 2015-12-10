@@ -1,0 +1,27 @@
+Welcome to TextBuddy. mytextfile.txt is ready for use
+command: All content deleted from mytextfile.txt
+command:   is an invalid command format
+command: mytextfile.txt is empty
+command: cry me a river is an invalid command format
+command: Added to mytextfile.txt: "hello"
+command: Added to mytextfile.txt: "A0110741X"
+command: Added to mytextfile.txt: "test line 3"
+command: 1. hello
+2. A0110741X
+3. test line 3
+command: Deleted from mytextfile.txt: "A0110741X"
+command: 1. hello
+2. test line 3
+command: Deleted from mytextfile.txt: "hello"
+command: Deleted from mytextfile.txt: "test line 3"
+command: mytextfile.txt is empty
+command: Added to mytextfile.txt: "Hello"
+command: Added to mytextfile.txt: "How are you?"
+command: Added to mytextfile.txt: "A0110741X"
+command: mytextfile.txt successfully saved
+command: 1. Hello
+2. How are you?
+3. A0110741X
+command: All content deleted from mytextfile.txt
+command: mytextfile.txt is empty
+command: mytextfile.txt successfully saved

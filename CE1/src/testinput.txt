@@ -1,0 +1,21 @@
+clear
+ 
+display
+cry me a river
+add hello
+add A0110741X
+add test line 3
+display
+delete 2
+display
+delete 1
+delete 1
+display
+add Hello
+add How are you?
+add A0110741X
+save
+display
+clear
+display
+exit
